@@ -15,7 +15,10 @@ claude mcp login atlassian
 ```
 ### Claude Desktop/Web
 
-Explicitly call skill or use one of the trigger phrases in combination with turning on the Atlassian Rovo connector in chat.
+Explicitly call the skill or use one of the trigger phrases in combination with turning on the Atlassian Rovo connector in chat.
 
+## Output
 
-adding more details later
+Produces a structured report: executive summary, what's blocking you (by severity),
+what you're blocking for others, critical-path analysis, and a prioritized action plan.
+See [`example/sample_output.md`](example/sample_output.md) for a full worked example.
