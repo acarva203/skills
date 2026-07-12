@@ -17,6 +17,6 @@ Skills that will help you manage and complete Jira tickets
 skills that manipulate and make more skills!
 
 #### user-invoked
-- skill-creator-skill
+- skill-creator-skill (to be added from individual repo soon)
 
 Inspired by: https://github.com/Minda/skills
