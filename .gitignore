@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local, per-skill dev notes (kept out of version control by convention)
+**/CLAUDE.md
+
+# Environment / secrets — never commit these
+.env
+.env.*
+*.key
+*.pem
+secrets.*
